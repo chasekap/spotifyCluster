@@ -1,22 +1,41 @@
+import React, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Login from './Login.js';
 
 function App() {
+
+  async function post_code(code){
+
+    const response = await fetch('/token', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+        // 'Content-Type': 'application/x-www-form-urlencoded',
+      },
+      
+      body: JSON.stringify({"code" : code}) // body data type must match "Content-Type" header
+    });
+
+  }
+
+  useEffect(() => {
+    const queryParams = new URLSearchParams(window.location.search);
+    const code = queryParams.get('code');
+    if (code){
+      post_code(code);
+    }
+  },[])
+  
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1> SpotifyCluster </h1>
+       
+       <Login/>
+
+        
       </header>
     </div>
   );

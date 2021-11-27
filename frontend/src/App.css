@@ -23,7 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.Clear-Button{
+  background-color: #282c34;
+}
 
+.Clear-Button:hover {
+  color: #cccccc;
+}
 .App-link {
   color: #61dafb;
 }
