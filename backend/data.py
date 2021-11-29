@@ -1,8 +1,36 @@
 from datetime import time
 import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt
+from sklearn.decomposition import PCA 
 from pandas.core.arrays import sparse
 from pandas.core.frame import DataFrame 
 
+
+def plot_attr_2D(x: list, y: list, labels = None): 
+    plt.scatter(x,y)
+    for i,txt in enumerate(labels): 
+        plt.annotate(txt[0:10], (x[i],y[i]))
+    plt.show()
+
+def gen_PCA(df: DataFrame) -> DataFrame: 
+    labels = df['name']
+    df = df.drop(['id','name','artists'],axis=1)
+    normalized_df = (df-df.mean())/df.std()
+
+    ndf_vals = normalized_df.values
+    pca = PCA(2)
+    points = pca.fit_transform(ndf_vals)
+    x = points[:,0]
+    y = points[:,1]
+
+    x = normalized_df['valence'].values
+    y = normalized_df['danceability'].values
+    plot_attr_2D(x,y,labels)
+    
+    
+
+    return x,y,labels
 
 def gen_artist_string(artists: object) -> str: 
     
@@ -48,6 +76,7 @@ def add_audio_features(df: DataFrame, features: object) -> DataFrame:
     df['tempo'] = tempo
     df['time_signature'] = time_signature
     df['valence'] = valence 
+    gen_PCA(df)
     df.to_csv('afff.csv')
     return df 
 
