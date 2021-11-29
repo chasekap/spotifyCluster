@@ -1,0 +1,51 @@
+,id,name,artists,acousticness,danceability,energy,loudness,key,instrumentalness,mode,speechiness,tempo,time_signature,valence
+0,1pbdIZCe29D7UYWqvkBYCe,Montana Girl,Vansire,0.146,0.429,0.757,-5.478,7,0.778,1,0.0392,141.299,4,0.375
+1,0SBariQWfKjoslW2XSIFOm,Seventeen,Peach Pit,0.00837,0.559,0.89,-5.188,11,0.00759,1,0.0387,91.509,4,0.809
+2,5OuJTtNve7FxUX82eEBupN,Tommy's Party,Peach Pit,0.122,0.565,0.438,-8.722,7,0.0469,1,0.0311,133.949,4,0.211
+3,51jG0OlS5GWuunFH05NyC6,Hot Knifer,Peach Pit,0.927,0.644,0.247,-8.813,6,0.0264,0,0.0368,124.667,4,0.0876
+4,65sNrvOp2HLlhGTeLJ0nnk,Being so Normal,Peach Pit,0.674,0.541,0.583,-8.886,6,0.00583,0,0.0507,148.162,4,0.295
+5,1XrSjpNe49IiygZfzb74pk,What Once Was,Her's,0.172,0.526,0.877,-4.369,3,0.0108,0,0.033,145.568,3,0.436
+6,4whYKrpVKvvaucBF0vtPuQ,Shampoo Bottles,Peach Pit,0.0232,0.648,0.436,-9.578,8,0.0,1,0.0275,107.019,4,0.333
+7,7ACT6YaXbYvl7hRWEOOEHQ,Double Negative (Skeleton Milkshake),Dominic Fike,0.00383,0.689,0.858,-2.868,4,0.0,1,0.161,153.977,4,0.643
+8,7cneuh5BMBbqbbGrpqTDHQ,That I Miss You,Vansire,0.306,0.779,0.572,-9.259,4,0.739,1,0.0396,114.994,4,0.967
+9,4fY6EU3jUQQISiUR8DLXuM,Sweet FA,Peach Pit,0.137,0.574,0.495,-7.893,1,0.000652,0,0.0479,145.085,4,0.549
+10,0ZK8TGOsngrstVPsnrHbK1,Peach Pit,Peach Pit,0.00322,0.515,0.804,-5.345,6,0.00229,0,0.0398,123.969,4,0.298
+11,6lbLn5iL2NBJnbib7bTXMn,Dræm Girl,No Vacation,0.00164,0.192,0.952,-5.888,2,0.716,1,0.258,172.752,4,0.262
+12,59JOMc9A6w8CkIHgs4kfNl,Chagu's Sideturn,Peach Pit,0.0835,0.46,0.721,-7.261,9,0.0431,1,0.0319,92.039,4,0.777
+13,1FvDJ9KGxcqwv1utyPL3JZ,This Charming Man - 2011 Remaster,The Smiths,0.00509,0.611,0.846,-5.9,11,0.0,1,0.0436,103.912,4,0.751
+14,7wmYgsLNRB9EpqpvR3hkvN,Problems III,The Growlers,0.0489,0.332,0.731,-4.565,0,0.00347,1,0.0446,90.028,4,0.636
+15,1xLs8Mu1QEVbGCpyHQ2r2U,Why,Dominic Fike,0.342,0.684,0.856,-2.676,6,0.00728,1,0.0411,117.027,4,0.343
+16,40d4m1eI0erCRKLXz55RtT,Private Presley,Peach Pit,0.137,0.285,0.496,-9.839,6,0.409,0,0.0338,124.441,4,0.227
+17,25yzL6nFoeW8O6WrqZUJub,Piccadilly Palare - 2010 Remaster,Morrissey,0.12,0.628,0.848,-5.528,6,3.29e-05,0,0.0265,132.025,4,0.722
+18,0a0EYuSVqeVqV8kjN9bFYC,Techno Show,Peach Pit,0.121,0.605,0.724,-7.729,1,0.431,0,0.0441,89.403,4,0.898
+19,6z6i7ssJ5AIqSqhVcecJpa,Angel Youth,Vansire,0.179,0.576,0.587,-8.735,9,0.758,1,0.0307,114.06,4,0.334
+20,3IrBrje316Ji5b1eL5JPcT,Doctor,Jack Stauber's Micropop,0.896,0.772,0.615,-8.392,10,3.18e-05,0,0.105,134.165,3,0.963
+21,1R5d3XlKJXGNrw4LUdeA3D,Personal Truth,Radiator Hospital,0.25,0.56,0.241,-9.403,3,0.0941,0,0.03,139.851,4,0.298
+22,3JhCt1KyrtQJHjeT9mOeST,I Never Dreamed,Radiator Hospital,2.2e-05,0.507,0.642,-6.051,1,0.127,1,0.0293,93.922,4,0.326
+23,7mwLlFNlWD4AOFoxPJTPwn,Speed Racer,Her's,0.0102,0.551,0.959,-2.497,6,0.325,0,0.0463,92.487,4,0.971
+24,1jQ19CIEPxKkixOhBh7KNf,Halcyon Age,Vansire,0.326,0.626,0.482,-9.641,11,0.148,0,0.029,93.128,4,0.681
+25,7LZN7FkxHZk6maiN6NdI2i,Dark Days,Local Natives,0.109,0.604,0.655,-7.088,9,0.0019,1,0.0273,115.038,4,0.59
+26,35m0zFQz1RgVQsUwegOyzf,Pulp of Youth,The Growlers,0.0331,0.637,0.721,-6.174,5,3.96e-06,0,0.0352,121.236,4,0.789
+27,3mJcEwAZ7GgPmppR6LvAdp,Sockboy,Gus Dapperton,0.109,0.651,0.719,-3.38,6,0.0,0,0.0334,117.01,4,0.4
+28,6fLvsD8uWsCRow8PfOpMav,Our Song,Radiator Hospital,0.00108,0.209,0.78,-3.245,1,0.0253,1,0.0512,102.877,4,0.626
+29,6tjD6Utdb0q9jsDDfKFNes,"She - Original 7"" Version",Misfits,0.441,0.583,0.63,-13.869,10,0.000436,0,0.0306,96.562,4,0.749
+30,6qn2qn12aqeFfIjGodvxjw,Saint Ivy,Beach Fossils,0.0338,0.39,0.546,-6.588,11,0.0586,0,0.0346,163.452,4,0.441
+31,5LwoLKuzz5V8PFdtRD7wIh,People Can't Stop Chillin',Sports,0.948,0.54,0.476,-14.316,6,0.875,1,0.0723,99.797,3,0.519
+32,1bda1uGY3RK54S59aNq4f7,My Favorite Fish,Gus Dapperton,0.322,0.647,0.65,-3.848,5,0.0,0,0.0449,74.0,4,0.677
+33,4WUAyxkq3x4l5P7QN0vmHr,Don't Come Home Today,Good Morning,0.507,0.382,0.738,-7.73,6,0.965,1,0.0334,155.858,4,0.462
+34,5PxibFPxW06HBPab6KrcPP,You Don't Know This Guy,Her's,0.925,0.311,0.28,-10.151,3,0.0362,1,0.0271,87.254,3,0.192
+35,0UVzM2GkqTTf57G6Wj05UL,Under Wraps,Her's,0.00137,0.592,0.67,-5.223,10,0.214,1,0.0278,135.062,4,0.386
+36,2iCzZEPF8GTfQ1v4WCi7De,The Daisy Chain,The Growlers,0.00258,0.496,0.819,-4.714,0,0.00109,1,0.0323,123.004,4,0.703
+37,5RMIMSHicmveOaVUfGTWIW,My Fire,Radiator Hospital,0.222,0.598,0.303,-7.8,4,9.42e-05,1,0.0299,79.025,4,0.545
+38,2G2YyCPsqnimrR3ecHw5ZQ,Lose Sight of You II,Radiator Hospital,3.18e-05,0.255,0.913,-4.679,3,0.513,1,0.0615,94.388,4,0.685
+39,6OiRh4kttAs1YWglvTcYkB,Alrighty Aphrodite,Peach Pit,0.00605,0.534,0.724,-4.675,6,0.0929,0,0.0495,81.846,4,0.503
+40,57RA3JGafJm5zRtKJiKPIm,Are You Bored Yet? (feat. Clairo),"Wallows, Clairo",0.156,0.682,0.683,-6.444,8,2.32e-05,0,0.0287,120.023,4,0.64
+41,5dd8bjfDdmFXhbKiGbE1bW,Weird Little Idea,Radiator Hospital,1.47e-05,0.549,0.563,-5.911,0,0.66,1,0.0289,123.96,4,0.616
+42,55WsKmJ5C0r50dFYTWJ2CT,Ghost Story,Radiator Hospital,0.00321,0.0679,0.889,-3.629,7,0.911,0,0.0679,184.714,4,0.344
+43,6St6kIw1vscBbLDl2K05xz,I Wanna Be Good,The Walters,0.833,0.322,0.354,-12.598,0,1.81e-05,1,0.0294,95.747,4,0.248
+44,4m3uMuu1gYYjZPtZvTOe6t,Orgasm of Death,The Growlers,0.000303,0.415,0.728,-5.568,11,0.000106,0,0.0303,154.992,4,0.703
+45,6RzMzTdBOH05fQN8DvY2iQ,Fill Me Up Anthem,Gus Dapperton,0.406,0.56,0.587,-2.998,8,0.0,1,0.0275,131.001,4,0.548
+46,5LYJ631w9ps5h9tdvac7yP,Easy Lover,"Philip Bailey, Phil Collins",0.105,0.74,0.923,-5.082,1,0.000163,1,0.0369,128.871,4,0.93
+47,0WQiDwKJclirSYG9v5tayI,There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,0.04,0.523,0.769,-5.855,4,0.0,1,0.0269,136.162,4,0.876
+48,20j7l6tFtc5lynXpbOQg1O,Superstar Sh*t,Dominic Fike,0.945,0.756,0.394,-7.321,4,0.0371,0,0.0956,70.027,4,0.197
+49,4j4pPKE3xAblPIbhxScC1j,Rawnald Gregory Erickson the Second,STRFKR,0.229,0.9,0.538,-7.879,7,0.843,1,0.0343,95.508,4,0.713
